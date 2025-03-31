@@ -1,0 +1,279 @@
+{
+  "build": {
+    "id": "1fe098bb-91a1-4cb3-85d3-babefc1a22ee",
+    "projectId": "7767efa1-0d7c-4bf8-9d20-cc424071798d",
+    "version": 63,
+    "createdAt": "2025-03-31T19:09:24.131+00:00",
+    "updatedAt": "2025-03-31T19:09:24.131+00:00",
+    "pages": {
+      "meta": {},
+      "homePage": {
+        "id": "Y5d1SKsxeOluEbncKjrZs",
+        "name": "Home",
+        "title": "\"Home\"",
+        "history": [
+          ""
+        ],
+        "rootInstanceId": "Nu6fq88c_MJ7iHpajhg00",
+        "meta": {},
+        "path": ""
+      },
+      "pages": [
+        {
+          "id": "vd_Bf-eCI5jmHfrR6pnO-",
+          "name": "Untitled",
+          "title": "\"Untitled\"",
+          "rootInstanceId": "Zq36bORYsI_fPa5QAZWeG",
+          "meta": {
+            "description": "\"\"",
+            "excludePageFromSearch": "true",
+            "language": "\"\"",
+            "socialImageUrl": "\"\"",
+            "redirect": "\"\"",
+            "documentType": "html",
+            "custom": []
+          },
+          "marketplace": {
+            "include": false
+          },
+          "path": "/untitled"
+        }
+      ],
+      "folders": [
+        {
+          "id": "root",
+          "name": "Root",
+          "slug": "",
+          "children": [
+            "Y5d1SKsxeOluEbncKjrZs",
+            "vd_Bf-eCI5jmHfrR6pnO-"
+          ]
+        }
+      ]
+    },
+    "breakpoints": [
+      [
+        "LwIMnGYV7KvvzdWGa1ngV",
+        {
+          "id": "LwIMnGYV7KvvzdWGa1ngV",
+          "label": "Base"
+        }
+      ],
+      [
+        "xkhW6I0DFXfI0c-04fLQq",
+        {
+          "id": "xkhW6I0DFXfI0c-04fLQq",
+          "label": "Tablet",
+          "maxWidth": 991
+        }
+      ],
+      [
+        "ToS_uK19UHrXy490cLtsj",
+        {
+          "id": "ToS_uK19UHrXy490cLtsj",
+          "label": "Mobile landscape",
+          "maxWidth": 767
+        }
+      ],
+      [
+        "mq9fI1cKdlsYFjls8G_Ci",
+        {
+          "id": "mq9fI1cKdlsYFjls8G_Ci",
+          "label": "Mobile portrait",
+          "maxWidth": 479
+        }
+      ]
+    ],
+    "styles": [
+      [
+        "B44s1Ja0hnO_QSBC_HrEh:LwIMnGYV7KvvzdWGa1ngV:paddingRight:",
+        {
+          "breakpointId": "LwIMnGYV7KvvzdWGa1ngV",
+          "styleSourceId": "B44s1Ja0hnO_QSBC_HrEh",
+          "property": "paddingRight",
+          "value": {
+            "type": "unit",
+            "value": 422,
+            "unit": "px"
+          }
+        }
+      ],
+      [
+        "B44s1Ja0hnO_QSBC_HrEh:LwIMnGYV7KvvzdWGa1ngV:paddingLeft:",
+        {
+          "breakpointId": "LwIMnGYV7KvvzdWGa1ngV",
+          "styleSourceId": "B44s1Ja0hnO_QSBC_HrEh",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "value": 343,
+            "unit": "px"
+          }
+        }
+      ],
+      [
+        "4JB3c4UQu6ezyc3ppW0KB:LwIMnGYV7KvvzdWGa1ngV:textAlign:",
+        {
+          "breakpointId": "LwIMnGYV7KvvzdWGa1ngV",
+          "styleSourceId": "4JB3c4UQu6ezyc3ppW0KB",
+          "property": "textAlign",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ]
+    ],
+    "styleSources": [
+      [
+        "B44s1Ja0hnO_QSBC_HrEh",
+        {
+          "type": "local",
+          "id": "B44s1Ja0hnO_QSBC_HrEh"
+        }
+      ],
+      [
+        "4JB3c4UQu6ezyc3ppW0KB",
+        {
+          "type": "local",
+          "id": "4JB3c4UQu6ezyc3ppW0KB"
+        }
+      ]
+    ],
+    "styleSourceSelections": [
+      [
+        "SF_wDHyNtEnyEK232d7Q1",
+        {
+          "instanceId": "SF_wDHyNtEnyEK232d7Q1",
+          "values": [
+            "B44s1Ja0hnO_QSBC_HrEh"
+          ]
+        }
+      ],
+      [
+        "weK648CujsbHcgDH5UcXz",
+        {
+          "instanceId": "weK648CujsbHcgDH5UcXz",
+          "values": [
+            "4JB3c4UQu6ezyc3ppW0KB"
+          ]
+        }
+      ]
+    ],
+    "props": [],
+    "dataSources": [],
+    "resources": [],
+    "instances": [
+      [
+        "Nu6fq88c_MJ7iHpajhg00",
+        {
+          "type": "instance",
+          "id": "Nu6fq88c_MJ7iHpajhg00",
+          "component": "Body",
+          "children": [
+            {
+              "type": "id",
+              "value": "SF_wDHyNtEnyEK232d7Q1"
+            }
+          ]
+        }
+      ],
+      [
+        "Zq36bORYsI_fPa5QAZWeG",
+        {
+          "type": "instance",
+          "id": "Zq36bORYsI_fPa5QAZWeG",
+          "component": "Body",
+          "label": "Body",
+          "children": []
+        }
+      ],
+      [
+        "SF_wDHyNtEnyEK232d7Q1",
+        {
+          "type": "instance",
+          "id": "SF_wDHyNtEnyEK232d7Q1",
+          "component": "Box",
+          "children": [
+            {
+              "type": "id",
+              "value": "weK648CujsbHcgDH5UcXz"
+            }
+          ]
+        }
+      ],
+      [
+        "weK648CujsbHcgDH5UcXz",
+        {
+          "type": "instance",
+          "id": "weK648CujsbHcgDH5UcXz",
+          "component": "Heading",
+          "children": [
+            {
+              "type": "text",
+              "value": "Hello World"
+            }
+          ]
+        }
+      ]
+    ],
+    "deployment": {
+      "destination": "saas",
+      "domains": [
+        "julien-otto-cf7s2"
+      ],
+      "assetsDomain": "julien-otto-cf7s2",
+      "excludeWstdDomainFromSearch": false
+    }
+  },
+  "page": {
+    "id": "Y5d1SKsxeOluEbncKjrZs",
+    "name": "Home",
+    "title": "\"Home\"",
+    "history": [
+      ""
+    ],
+    "rootInstanceId": "Nu6fq88c_MJ7iHpajhg00",
+    "meta": {},
+    "path": ""
+  },
+  "pages": [
+    {
+      "id": "Y5d1SKsxeOluEbncKjrZs",
+      "name": "Home",
+      "title": "\"Home\"",
+      "history": [
+        ""
+      ],
+      "rootInstanceId": "Nu6fq88c_MJ7iHpajhg00",
+      "meta": {},
+      "path": ""
+    },
+    {
+      "id": "vd_Bf-eCI5jmHfrR6pnO-",
+      "name": "Untitled",
+      "title": "\"Untitled\"",
+      "rootInstanceId": "Zq36bORYsI_fPa5QAZWeG",
+      "meta": {
+        "description": "\"\"",
+        "excludePageFromSearch": "true",
+        "language": "\"\"",
+        "socialImageUrl": "\"\"",
+        "redirect": "\"\"",
+        "documentType": "html",
+        "custom": []
+      },
+      "marketplace": {
+        "include": false
+      },
+      "path": "/untitled"
+    }
+  ],
+  "assets": [],
+  "user": {
+    "email": "liam@studio-kontrast.fr"
+  },
+  "projectDomain": "julien-otto-cf7s2",
+  "projectTitle": "Julien // Otto",
+  "origin": "https://apps.webstudio.is"
+}
