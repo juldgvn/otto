@@ -27,7 +27,7 @@ export const getResources = (_props: { system: System }) => {
     language: "",
     socialImageAssetName: undefined,
     socialImageUrl: "",
-    status: undefined,
+    status: 200,
     redirect: "",
     custom: [
     ],

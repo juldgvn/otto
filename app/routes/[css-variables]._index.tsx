@@ -28,14 +28,14 @@ import {
   pageFontAssets,
   pageBackgroundImageAssets,
   breakpoints,
-} from "../__generated__/[untitled]._index";
+} from "../__generated__/[css-variables]._index";
 import {
   getResources,
   getPageMeta,
   getRemixParams,
   projectId,
   contactEmail,
-} from "../__generated__/[untitled]._index.server";
+} from "../__generated__/[css-variables]._index.server";
 import { assetBaseUrl, imageLoader } from "../constants.mjs";
 import css from "../__generated__/index.css?url";
 import { sitemap } from "../__generated__/$resources.sitemap.xml";
