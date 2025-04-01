@@ -17,7 +17,7 @@ import { Body as Body } from "@webstudio-is/sdk-components-react-router";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
-        []
+        ["Manrope-VariableFont_wght_rkx9O0NjW2_XFsz2fY7UK.ttf"]
 
       export const pageBackgroundImageAssets: string[] =
         []
